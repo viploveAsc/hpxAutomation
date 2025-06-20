@@ -10,6 +10,7 @@
 
 The framework integrates multiple tools to address real-world automation challenges across regions (US, China, Global) and application modules (accessibility, consents, onboarding, etc.).
 
+> ✅ **GenAI-Powered Script Authoring**: Test scripts are intelligently generated using **Ascendion AVA+**, a GenAI-based test creation platform, enabling prompt-driven, context-aware automation flows.
 ---
 
 ## 🧰 Tech Stack
