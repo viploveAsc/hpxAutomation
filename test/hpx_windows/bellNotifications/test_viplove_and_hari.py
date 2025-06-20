@@ -44,7 +44,7 @@ def click_on_close_button():
     pyautogui.moveTo(close_btn)
     pyautogui.click()
     time.sleep(2)
-
+    
 @pytest.fixture(scope='module')
 def launch_hpx_app():
     logger.info("launching the app")
