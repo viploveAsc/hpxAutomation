@@ -1,0 +1,9 @@
+# pip install -r requirements.txt
+pytest
+pywinauto
+pyautogui
+pygetwindow
+pillow
+pytest-html
+Appium-Python-Client
+pytesseract
